@@ -3,7 +3,8 @@
 This paper includes the code to train the models for detecting anomalies in cytology images. 
 
 - The anomalib folder contains the code to train the models using the [anomalib library](https://github.com/openvinotoolkit/anomalib). 
-- The reconstruction folder contains the code to train the models using a GAN model using the [FastAI library](https://www.fast.ai/). 
+- The reconstruction folder contains the code to train the models using a GAN model using the [FastAI library](https://www.fast.ai/).
+- The inference folder contains the code to use the model for predictions using a folder. 
 
 ## How to cite
 
