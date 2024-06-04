@@ -4,7 +4,8 @@ This paper includes the code to train the models for detecting anomalies in cyto
 
 - The anomalib folder contains the code to train the models using the [anomalib library](https://github.com/openvinotoolkit/anomalib). 
 - The reconstruction folder contains the code to train the models using a GAN model using the [FastAI library](https://www.fast.ai/).
-- The inference folder contains the code to use the model for predictions using a folder. 
+- The inference folder contains the code to use the model for predictions using a folder.
+- There is a repository with the [Python application](https://github.com/joheras/CytologyAnomalyDetectorPython/tree/main)
 
 ## How to cite
 
